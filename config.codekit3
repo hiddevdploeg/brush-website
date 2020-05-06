@@ -37,6 +37,16 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/build/css/normalize-min-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/build/css/normalize-min-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/build/css/normalize-min.css": {
 		"aP": 1,
 		"bl": 0,
@@ -450,6 +460,16 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/css/normalize-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/normalize-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/css/normalize.css": {
 		"aP": 1,
 		"bl": 0,
@@ -459,12 +479,6 @@
 		"oAP": "/css/normalize-min.css",
 		"oF": 0,
 		"oS": 3
-		},
-	"/docs": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "/docs/docs",
-		"oF": 0
 		},
 	"/favicon.ico": {
 		"cB": 0,

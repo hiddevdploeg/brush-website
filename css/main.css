@@ -82,7 +82,7 @@ textarea {
 
 html {
     box-sizing: border-box;
-    font-family: -apple-system, BlinkMacSystemFont, SegoeUI, 'Segoe UI', 'Roboto', Roboto, Helvetica, Arial, sans-serif,
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, SegoeUI, 'Segoe UI', 'Roboto', Roboto, Helvetica, Arial, sans-serif,
     'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
     -webkit-font-smoothing: antialiased;
     height: 100%;
@@ -233,7 +233,7 @@ nav {
 nav .links a {
   margin: .5rem 1rem .5rem .5rem;
   text-decoration: none;
-  font-weight: 550;
+  font-weight: 600;
   color: var(--text-color);
   transition: .4s;
 }
@@ -242,7 +242,7 @@ nav a.cta {
   color: var(--blue);
   margin-right: 0;
   text-decoration: none;
-  font-weight: 550;
+  font-weight: 600;
 }
 
 nav .links a:hover {
