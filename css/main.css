@@ -244,6 +244,9 @@ nav a.cta {
   text-decoration: none;
   font-weight: 600;
 }
+nav a.cta::after {
+  content: "Buy Brush on the App Store";
+}
 
 nav .links a:hover {
   color: var(--green);
@@ -352,7 +355,7 @@ article {
     max-height: none;
     height: auto;
     padding-bottom: 0;
-    background-image: linear-gradient(0deg, #FFFFFF -40%, #E8E8E8 100%);
+    background-image: linear-gradient(0deg, #FFFFFF -80%, #E8E8E8 100%);
     text-align: center;
   }
 
@@ -385,8 +388,9 @@ article {
     background: #E8E8E8;
   }
 
-  nav .cta {
-    display: none;
+  nav a.cta::after {
+    content: "Buy Brush";
+    padding-right: .45rem;
   }
 
   .content {
